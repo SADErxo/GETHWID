@@ -1,0 +1,2 @@
+# GETHWID
+HWID
